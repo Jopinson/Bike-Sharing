@@ -37,4 +37,4 @@ I believe that we can utilize this data to get us started here in Des Moines. I 
 
 If you would like to see more data, and the story built in Tableau please check out my link below. 
 
-[link to dashboard](https://public.tableau.com/views/BikeSharingChallengeStory/GenderBreakdown?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/profile/johnathon6725#!/vizhome/BikeSharingChallengeStory/BikeSharingDataStoryforDesMoinefromNewYorkData_)
